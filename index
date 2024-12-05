@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"  content="width=device-width, initial-scale=1.0">
+    <title> Meu perfil</title>
+</head>
+<body style="background-color: #f0f8ff;">  <!-- Adicionando cor de fundo azul claro --> 
+    
+  <!-- Titulo Principal -->
+  <h1>Bem-vindo ao meu perfil</h1>
+
+  <!--Paragrafo de apresentação-->
+  <p> Olá! Meu nome é Manuela Gabrigna Queiroz, e sou apaixonada por tecnologia e desenvolvimento web.</p>
+
+  <!--Lista de hobbies-->
+  <ul>
+      <li>Ler livros</li>
+      <li>Jogar videogames</li>
+      <li>Explorar novas tecnologias</li>
+  </ul>
+
+  <!--Imagem-->
+  <h2>Foto inspiradora</h2>
+  <img src="https://www.placeholder.com/200" alt="Imagem inspiradora"> <!--blob:https://web.whatsapp.com/b8ee94e7-08e9-4b4f-a8b6-4b4ecab14714-->
+
+  <!--Links favoritos-->
+<h2>Links úteis</h2>
+<p>Veja alguns dos meus sites favoritos:</p>
+<ul>
+   <li><a href="https://www.google.com" target="_blank">Google</a></li>
+   <li><a href="https://www.wikipedia.org" target="_blank">Wikipedia</a></li>
+</ul>
+</body>
+</html>
